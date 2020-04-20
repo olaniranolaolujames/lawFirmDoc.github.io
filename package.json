@@ -1,0 +1,17 @@
+{
+  "name": "lawFirmDoc",
+  "version": "1.0.0",
+  "description": "market place where user can purchase law related document",
+  "author": "Olaniran Olaoluwa James",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
