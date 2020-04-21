@@ -188,7 +188,7 @@
                                         </div>
                                     </div>
                                     <div class="product-details">
-                                        <h5 class="title"><a href="#">Canon Camera</a></h5>
+                                        <h5 class="title"><a href="#">Non Disclosure Agreement</a></h5>
                                         <div class="price">
                                             <del>$79.99</del>$59.99
                                         </div>
@@ -212,7 +212,7 @@
                                         <a href="#"><img src="uploads/shop-21.jpg" alt=""></a>
                                     </div>
                                     <div class="product-details">
-                                        <h5 class="title"><a href="#">Shoes, Watch, Belts, T-shirts</a></h5>
+                                        <h5 class="title"><a href="#">Patnership Agreement</a></h5>
                                         <div class="price">
                                             <del>$179.99</del>$159.99
                                         </div>
@@ -243,7 +243,7 @@
                                         </div>
                                     </div>
                                     <div class="product-details">
-                                        <h5 class="title"><a href="#">Eyeglass, Watch</a></h5>
+                                        <h5 class="title"><a href="#">Indemnity Agreement</a></h5>
                                         <div class="price">$29.99</div>
                                         <div class="rating">
                                             <i class="fa fa-star"></i>
@@ -272,7 +272,7 @@
                                         </div>
                                     </div>
                                     <div class="product-details">
-                                        <h5 class="title"><a href="#">Leather Wallet</a></h5>
+                                        <h5 class="title"><a href="#">Bill Of Sale</a></h5>
                                         <div class="price">$49</div>
                                         <div class="rating">
                                             <i class="fa fa-star"></i>
@@ -294,7 +294,7 @@
                                         <a href="#"><img src="uploads/shop-51.jpg" alt=""></a>
                                     </div>
                                     <div class="product-details">
-                                        <h5 class="title"><a href="#">Camera</a></h5>
+                                        <h5 class="title"><a href="#">Business Contract</a></h5> 
                                         <div class="price">$99</div>
                                         <div class="rating">
                                             <i class="fa fa-star"></i>
@@ -323,7 +323,7 @@
                                         </div>
                                     </div>
                                     <div class="product-details">
-                                        <h5 class="title"><a href="#">Watch</a></h5>
+                                        <h5 class="title"><a href="#">Prroperty Lease Agreement</a></h5> 
                                         <div class="price">$459.99</div>
                                         <div class="rating">
                                             <i class="fa fa-star"></i>
@@ -352,7 +352,7 @@
                                         </div>
                                     </div>
                                     <div class="product-details">
-                                        <h5 class="title"><a href="#">Coffee Cup</a></h5>
+                                        <h5 class="title"><a href="#">Tenancy Agreement</a></h5>
                                         <div class="price">$9.90</div>
                                         <div class="rating">
                                             <i class="fa fa-star"></i>
@@ -374,7 +374,7 @@
                                         <a href="#"><img class="img-responsive" src="uploads/shop-81.jpg" alt=""></a>
                                     </div>
                                     <div class="product-details">
-                                        <h5 class="title"><a href="#">Leather Shoes</a></h5>
+                                        <h5 class="title"><a href="#">Puchase Order</a></h5>
                                         <div class="price">$129.90</div>
                                         <div class="rating">
                                             <i class="fa fa-star"></i>
@@ -396,7 +396,7 @@
                                         <a href="#"><img class="img-responsive" src="uploads/shop-91.jpg" alt=""></a>
                                     </div>
                                     <div class="product-details">
-                                        <h5 class="title"><a href="#">On Ear Stereo Headphone</a></h5>
+                                        <h5 class="title"><a href="#">General Employment Agreement</a></h5>
                                         <div class="price">$100</div>
                                         <div class="rating">
                                             <i class="fa fa-star"></i>
@@ -418,7 +418,7 @@
                                         <a href="#"><img class="img-responsive" src="uploads/shop-92.jpg" alt=""></a>
                                     </div>
                                     <div class="product-details">
-                                        <h5 class="title"><a href="#">On Ear Stereo Headphone</a></h5>
+                                        <h5 class="title"><a href="#">Express Agreement</a></h5>
                                         <div class="price">$100</div>
                                         <div class="rating">
                                             <i class="fa fa-star"></i>

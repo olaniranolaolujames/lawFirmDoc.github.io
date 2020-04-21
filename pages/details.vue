@@ -178,7 +178,7 @@
                         </div>
                         <div class="col-md-7">
                             <div class="shopp-details">
-                                <h2>Canon Camera</h2>
+                                <h2>Non Disclosure Agreement</h2>
                                 <div class="price"><del>$279.00</del> $179.99</div>
                                 <p class="description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
                                 <ul class="list">
@@ -435,27 +435,27 @@
                                 <div class="owl-carousel owl-theme multi-item-slider">
                                     <div class="theme-owlslider-container">
                                         <img class="img-responsive" src="uploads/shop-11.jpg" alt="">
-                                        <h6 class="title"><a href="#">Canon Camera</a></h6>
+                                        <h6 class="title"><a href="#">Non Disclosure Agreement</a></h6>
                                         <div class="price">$499</div>
                                     </div>
                                     <div class="theme-owlslider-container">
                                         <img class="img-responsive" src="uploads/shop-21.jpg" alt="">
-                                        <h6 class="title"><a href="#">Multiple Product</a></h6>
+                                        <h6 class="title"><a href="#">Bill Of Sale</a></h6>
                                         <div class="price">$499</div>
                                     </div>
                                     <div class="theme-owlslider-container">
                                         <img class="img-responsive" src="uploads/shop-31.jpg" alt="">
-                                        <h6 class="title"><a href="#">Leather Wallet and Watch</a></h6>
+                                        <h6 class="title"><a href="#">Business Contact</a></h6>
                                         <div class="price">$499</div>
                                     </div>
                                     <div class="theme-owlslider-container">
                                         <img class="img-responsive" src="uploads/shop-41.jpg" alt="">
-                                        <h6 class="title"><a href="#">Leather Wallet and Watch</a></h6>
+                                        <h6 class="title"><a href="#">Business Contact</a></h6>
                                         <div class="price">$499</div>
                                     </div>
                                     <div class="theme-owlslider-container">
                                         <img class="img-responsive" src="uploads/shop-51.jpg" alt="">
-                                        <h6 class="title"><a href="#">Leather Wallet and Watch</a></h6>
+                                        <h6 class="title"><a href="#">Business Contact</a></h6>
                                         <div class="price">$499</div>
                                     </div>
                                 </div>

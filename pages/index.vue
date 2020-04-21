@@ -5,7 +5,7 @@
             <div class="layer-stretch hdr">
                 <div class="tbl animated fadeInDown">
                     <div class="tbl-row">
-                        <!-- Start Header Logo Section -->
+                        <!-- Start Header Logo Section --> 
                         <div class="tbl-cell hdr-logo">
                             <a href="index.html"><img src="images/logo-black.png" alt=""></a>
                         </div><!-- End Header Logo Section -->
@@ -96,7 +96,7 @@
                                                 </div>
                                                 <div class="col-8 cart-details">
                                                     <span class="title">Canvas Backpack</span>
-                                                    <span class="price">$39</span>
+                                                    <span class="price">₦39</span>
                                                     <span class="qty">Quantity - 3</span>
                                                     <div class="cart-remove"><i class="icon-close"></i></div>
                                                 </div>
@@ -109,7 +109,7 @@
                                                 </div>
                                                 <div class="col-8 cart-details">
                                                     <span class="title">Leather Wallet</span>
-                                                    <span class="price">$49</span>
+                                                    <span class="price">₦ 49</span>
                                                     <span class="qty">Quantity - 3</span>
                                                     <div class="cart-remove"><i class="icon-close"></i></div>
                                                 </div>
@@ -120,7 +120,7 @@
                                                 <a href="#" class="btn btn-dark text-white text-center">Checkout</a>
                                             </div>
                                             <div class="col-6 text-right">
-                                                <p class="font-dosis font-20 m-0">Total : $98</p>
+                                                <p class="font-dosis font-20 m-0">Total : ₦98</p>
                                             </div>
                                         </li>
                                     </ul>
@@ -150,12 +150,12 @@
             <div class="flexslider slider-wrapper">
                 <ul class="slides">
                     <li>
-                        <div class="slider-backgroung-image" style="background-image: url(uploads/slider-ecommerce-1.jpg);">
+                        <div class="slider-backgroung-image" style="background-image: url(uploads/laptop-3196481_1920.jpg);">
                             
                             <div class="layer-stretch">
                                 <div class="slider-info">
-                                    <h1>Buy Best. Long Life. Service Free</h1>
-                                    <p>We have created 80+ Pages, 300+ Components or Shortcodes, Popup for this template and more in future. #twitterhash, @facebooktag</p>
+                                    <h1>Buy Best. Choose From Our Attorney-crafted Agreements</h1>
+                                    <p>We have numerous documents just for you. #twitterhash, @facebooktag</p> 
                                     <div class="slider-button">
                                         <a href="/product" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored mdl-js-ripple-effect button button-primary button-pill">Explore More</a>
                                     </div>
@@ -188,9 +188,9 @@
                                     </div>
                                 </div>
                                 <div class="product-details">
-                                    <h5 class="title"><a href="#">Canon Camera</a></h5>
+                                    <h5 class="title"><a href="#">Non Disclosure Agreement</a></h5>
                                     <div class="price">
-                                        <del>$79.99</del>$59.99
+                                        <del>₦79.99</del>₦59.99
                                     </div>
                                     <div class="rating">
                                         <i class="fa fa-star"></i>
@@ -212,9 +212,9 @@
                                     <a href="/details"><img src="uploads/shop-21.jpg" alt=""></a>
                                 </div>
                                 <div class="product-details">
-                                    <h5 class="title"><a href="#">Shoes, Watch, Belts, T-shirts</a></h5>
+                                    <h5 class="title"><a href="#">Partnership Agreement</a></h5>
                                     <div class="price">
-                                        <del>$179.99</del>$159.99
+                                        <del>₦179.99</del>₦159.99
                                     </div>
                                     <div class="rating">
                                         <i class="fa fa-star"></i>
@@ -243,8 +243,8 @@
                                     </div>
                                 </div>
                                 <div class="product-details">
-                                    <h5 class="title"><a href="#">Eyeglass, Watch</a></h5>
-                                    <div class="price">$29.99</div>
+                                    <h5 class="title"><a href="#">Indemnity Agreement</a></h5>
+                                    <div class="price">₦29.99</div>
                                     <div class="rating">
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star"></i>
@@ -274,28 +274,28 @@
                                 <div class="owl-carousel owl-theme multi-item-slider">
                                     <div class="theme-owlslider-container">
                                         <img class="img-responsive" src="uploads/shop-11.jpg" alt="">
-                                        <h6 class="title"><a href="#">Canon Camera</a></h6>
-                                        <div class="price">$499</div>
+                                        <h6 class="title"><a href="#">Non Disclosure Agreement</a></h6>
+                                        <div class="price">₦499</div>  
                                     </div>
                                     <div class="theme-owlslider-container">
                                         <img class="img-responsive" src="uploads/shop-21.jpg" alt="">
-                                        <h6 class="title"><a href="#">Multiple Product</a></h6>
-                                        <div class="price">$499</div>
+                                        <h6 class="title"><a href="#">Bill Of Sale</a></h6>
+                                        <div class="price">₦499</div> 
                                     </div>
                                     <div class="theme-owlslider-container">
                                         <img class="img-responsive" src="uploads/shop-31.jpg" alt="">
-                                        <h6 class="title"><a href="#">Leather Wallet and Watch</a></h6>
-                                        <div class="price">$499</div>
+                                        <h6 class="title"><a href="#">Business Contact</a></h6>
+                                        <div class="price">₦499</div>
                                     </div>
                                     <div class="theme-owlslider-container">
                                         <img class="img-responsive" src="uploads/shop-41.jpg" alt="">
-                                        <h6 class="title"><a href="#">Leather Wallet and Watch</a></h6>
-                                        <div class="price">$499</div>
+                                        <h6 class="title"><a href="#">Business Contact</a></h6>
+                                        <div class="price">₦499</div>
                                     </div>
                                     <div class="theme-owlslider-container">
                                         <img class="img-responsive" src="uploads/shop-51.jpg" alt="">
-                                        <h6 class="title"><a href="#">Leather Wallet and Watch</a></h6>
-                                        <div class="price">$499</div>
+                                        <h6 class="title"><a href="#">Business Contact</a></h6>
+                                        <div class="price">₦499</div>
                                     </div>
                                 </div>
                             </div>
@@ -434,7 +434,7 @@
                         <div class="footer-container footer-c">
                             <div class="footer-subscribe">
                                 <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label form-input">
-                                    <input class="mdl-textfield__input" type="text" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" id="subscribe-email">
+                                    <input class="mdl-textfield__input" type="text" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}₦" id="subscribe-email">
                                     <label class="mdl-textfield__label" for="subscribe-email">Your Email</label>
                                     <span class="mdl-textfield__error">Please Enter Valid Email!</span>
                                 </div>
