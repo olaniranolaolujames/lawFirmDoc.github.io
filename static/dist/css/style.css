@@ -8902,7 +8902,7 @@ body {
         transition: all .3s ease-in-out; }
       .menu > li > a .fa {
         font-size: 12px;
-        color: #AAA; }
+        color: rgb(12, 11, 11); }
       .menu > li > a.active {
         background: rgba(158, 158, 158, 0.1); }
         .menu > li > a.active::after {
@@ -8910,7 +8910,7 @@ body {
       .menu > li > a:hover::after {
         width: 100%; }
     .menu > li a.hdr-search i, .menu > li a.hdr-basket i {
-      font-size: 24px; }
+      font-size: 30px; }
   .menu .menu-megamenu-li {
     position: static; }
   .menu > .mobile-menu-close {
@@ -9372,7 +9372,7 @@ body {
   .slider-info h2 {
     display: inline-block;
     font-size: 54px;
-    color: #555;
+    color: rgba(36, 14, 235, 0.719);
     font-weight: 600;
     margin: 0 0 15px 0;
     animation-delay: .4s; }
@@ -9381,7 +9381,7 @@ body {
       font-style: normal; }
   .slider-info p {
     font-size: 18px;
-    color: #777;
+    color: rgb(58, 11, 226);
     animation-delay: .6s; }
 
 .slider-button {
